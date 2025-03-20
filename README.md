@@ -10,6 +10,26 @@ Ces manuels sont intégralement écrits avec [Quarto](https://quarto.org/). À c
 
 3.  Apparicio Philippe, Jérémy Gelb, Jean Dubé et Joan Carles Martori (2025). [*Méthodes de régression spatiale : un grand bol d’R*](https://serieboldr.github.io/RegressionsSpatiales/). Université de Sherbrooke, Département de géomatique appliquée. fabriqueREL. Licence CC BY-SA.
 
-| [<img src="CouvertureMethoQuant.png" style="width:401px;height:520px;">](https://serieboldr.github.io/MethodesQuantitatives) | [<img src="CouvertureLivreAnalyseSpatiale.png" style="width:401px;height:520px;">](https://serieboldr.github.io/MethodesAnalyseSpatiale/) | [<img src="CouvertureLivreRegressionsSpatiales.png" style="width:401px;height:520px;">](https://serieboldr.github.io/RegressionsSpatiales/) |
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td>
+      <a href="https://serieboldr.github.io/MethodesQuantitatives">
+        <img src="CouvertureMethoQuant.png" style="width:401px;height:520px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://serieboldr.github.io/MethodesAnalyseSpatiale/">
+        <img src="CouvertureLivreAnalyseSpatiale.png" style="width:401px;height:520px;">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <a href="https://serieboldr.github.io/RegressionsSpatiales/">
+        <img src="CouvertureLivreRegressionsSpatiales.png" style="width:401px;height:520px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
  
