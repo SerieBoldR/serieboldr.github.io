@@ -8,22 +8,4 @@ Ces manuels sont intégralement écrits avec [Quarto](https://quarto.org/). À c
 
 2.  Apparicio Philippe et Jérémy Gelb (2024). [*Méthodes d'analyse spatiales : un grand bol d'R*](https://serieboldr.github.io/MethodesAnalyseSpatiale/). Université de Sherbrooke, Département de géomatique appliquée. fabriqueREL. Licence CC BY-SA.
 
-|||
-| [<img src="CouvertureMethoQuant.png" style="width:401px;height:520px;">](https://serieboldr.github.io/MethodesQuantitatives) | [<img src="CouvertureLivreAnalyseSpatiale.png" style="width:401px;height:520px;">](https://serieboldr.github.io/MethodesAnalyseSpatiale/) |
-
-<hr>
-
-<table border="0", style="border:none;">
-  <tr>
-    <td style="text-align:center">
-      <a href="https://serieboldr.github.io/MethodesQuantitatives/">
-        <img src="CouvertureMethoQuant.png" style="width:401px;height:520px;">
-      </a>
-    </td>
-    <td style="text-align:center">
-      <a href="https://serieboldr.github.io/MethodesAnalyseSpatiale/">
-        <img src="CouvertureLivreAnalyseSpatiale.png" style="width:401px;height:520px;">
-      </a>
-    </td>
-  </tr>
-</table>
+[<img src="CouvertureMethoQuant.png" style="width:401px;height:520px;">](https://serieboldr.github.io/MethodesQuantitatives) [<img src="CouvertureLivreAnalyseSpatiale.png" style="width:401px;height:520px;">](https://serieboldr.github.io/MethodesAnalyseSpatiale/)
