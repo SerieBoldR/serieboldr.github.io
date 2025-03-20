@@ -4,23 +4,23 @@ La série ***UnGrand Bol d'R*** regroupe plusieurs manuels sur R sous la directi
 
 Ces manuels sont intégralement écrits avec [Quarto](https://quarto.org/). À ce jour, deux manuels sont disponibles :
 
-1.  Apparicio Philippe et Jérémy Gelb (2024). [*Méthodes quantitatives en sciences sociales : un grand bol d'R*](https://serieboldr.github.io/MethodesQuantitatives/). Deuxième édition, Université de Sherbrooke, Département de géomatique appliquée. fabriqueREL. Licence CC BY-SA.
+1.  Apparicio Philippe et Jérémy Gelb (2024). [*Méthodes quantitatives en sciences sociales : un grand bol d'R*](https://serieboldr.com/MethodesQuantitatives/). Deuxième édition, Université de Sherbrooke, Département de géomatique appliquée. fabriqueREL. Licence CC BY-SA.
 
-2.  Apparicio Philippe et Jérémy Gelb (2025). [*Méthodes d'analyse spatiales : un grand bol d'R*](https://serieboldr.github.io/MethodesAnalyseSpatiale/). Université de Sherbrooke, Département de géomatique appliquée. fabriqueREL. Licence CC BY-SA.
+2.  Apparicio Philippe et Jérémy Gelb (2025). [*Méthodes d'analyse spatiales : un grand bol d'R*](https://serieboldr.com/MethodesAnalyseSpatiale/). Université de Sherbrooke, Département de géomatique appliquée. fabriqueREL. Licence CC BY-SA.
 
-3.  Apparicio Philippe, Jérémy Gelb, Jean Dubé et Joan Carles Martori (2025). [*Méthodes de régression spatiale : un grand bol d’R*](https://serieboldr.github.io/RegressionsSpatiales/). Université de Sherbrooke, Département de géomatique appliquée. fabriqueREL. Licence CC BY-SA.
+3.  Apparicio Philippe, Jérémy Gelb, Jean Dubé et Joan Carles Martori (2025). [*Méthodes de régression spatiale : un grand bol d’R*](https://serieboldr.com/RegressionsSpatiales/). Université de Sherbrooke, Département de géomatique appliquée. fabriqueREL. Licence CC BY-SA.
 
 <p align="center">
-  <a href="https://serieboldr.github.io/MethodesQuantitatives">
+  <a href="https://serieboldr.com/MethodesQuantitatives">
     <img src="CouvertureMethoQuant.png" alt="Méthodes Quantitatives" width="300">
   </a>
-  <a href="https://serieboldr.github.io/MethodesAnalyseSpatiale/">
+  <a href="https://serieboldr.com/MethodesAnalyseSpatiale/">
     <img src="CouvertureLivreAnalyseSpatiale.png" alt="Méthodes d'Analyse Spatiale" width="300">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://serieboldr.github.io/RegressionsSpatiales/">
+  <a href="https://serieboldr.com/RegressionsSpatiales/">
     <img src="CouvertureLivreRegressionsSpatiales.png" alt="Méthodes de Régression Spatiale" width="300">
   </a>
 </p>
