@@ -8,7 +8,7 @@ Ces manuels sont intégralement écrits avec [Quarto](https://quarto.org/). À c
 
 2.  Apparicio Philippe et Jérémy Gelb (2025). [*Méthodes d'analyse spatiales : un grand bol d'R*](https://serieboldr.com/MethodesAnalyseSpatiale/). Université de Sherbrooke, Département de géomatique appliquée. fabriqueREL. Licence CC BY-SA.
 
-3.  Apparicio Philippe, Jérémy Gelb, Jean Dubé et Joan Carles Martori (2025). [*Méthodes de régression spatiale : un grand bol d’R*](https://serieboldr.com/RegressionsSpatiales/). Université de Sherbrooke, Département de géomatique appliquée. fabriqueREL. Licence CC BY-SA.
+3.  Apparicio Philippe, Jérémy Gelb, Jean Dubé et Joan Carles Martori (2025). [*Méthodes de régression spatiale : un grand bol d’R*](https://serieboldr.com/RegressionsSpatiales/). Université de Sherbrooke et Université Laval. fabriqueREL. Licence CC BY-SA.
 
 <p align="center">
   <a href="https://serieboldr.com/MethodesQuantitatives">
